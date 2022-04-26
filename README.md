@@ -6,15 +6,15 @@
 
 ## 1. Численные методы линейной алгебры
 
-### [1.1. LU-разложение матриц](https://github.com/IvaMarin/Numerical-Methods/tree/main/nm_lab1/nm_lab1_1)
+### [1.1. LU-разложение матриц](/nm_lab1/nm_lab1_1)
 
-### [1.2. Метод прогонки](https://github.com/IvaMarin/Numerical-Methods/tree/main/nm_lab1/nm_lab1_2)
+### [1.2. Метод прогонки](/nm_lab1/nm_lab1_2)
 
-### [1.3. Метод простых итераций (метод Якоби) и метод Зейделя](https://github.com/IvaMarin/Numerical-Methods/tree/main/nm_lab1/nm_lab1_3)
+### [1.3. Метод простых итераций (метод Якоби) и метод Зейделя](/nm_lab1/nm_lab1_3)
 
-### [1.4. Метод вращений](https://github.com/IvaMarin/Numerical-Methods/tree/main/nm_lab1/nm_lab1_4)
+### [1.4. Метод вращений](/nm_lab1/nm_lab1_4)
 
-### [1.5. QR-алгоритм](https://github.com/IvaMarin/Numerical-Methods/tree/main/nm_lab1/nm_lab1_5)
+### [1.5. QR-алгоритм](/nm_lab1/nm_lab1_5)
 
 ## 2. Решение нелинейных уравнений и систем нелинейных уравнений
 
