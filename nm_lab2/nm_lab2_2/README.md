@@ -2,7 +2,7 @@
 
 Посмотрим на график системы:
 
-$\begin{cases} x_1 - \cos(x_2) = 3 \\ x_2 - \sin(x_1) = 3 \end{cases}$
+<img src="https://render.githubusercontent.com/render/math?math=$\begin{cases} x_1 - \cos(x_2) = 3 \\ x_2 - \sin(x_1) = 3 \end{cases}$">
 
 
 ```python
@@ -35,11 +35,11 @@ plt.show()
 
 
     
-![png](/img/output_1_0.png)
+![png](/nm_lab2/nm_lab2_2/img/output_1_0.png)
     
 
 
-Посмотрим на решение. Возьмем область $G: x_1\in[2; 2.5], x_2\in[3.5; 4]$ для его поиска
+Посмотрим на решение. Возьмем область <img src="https://render.githubusercontent.com/render/math?math=$G: x_1\in[2, 2.5], x_2\in[3.5, 4]$"> для его поиска
 
 
 ```python
@@ -61,7 +61,7 @@ plt.show()
 
 
     
-![png](/img/output_3_0.png)
+![png](/nm_lab2/nm_lab2_2/img/output_3_0.png)
     
 
 
@@ -114,6 +114,6 @@ plt.show()
 
 
     
-![png](/img/output_7_0.png)
+![png](/nm_lab2/nm_lab2_2/img/output_7_0.png)
     
 
