@@ -1,6 +1,6 @@
 # Анализ функции 
 
-Посмотрим на график функции <img src="https://render.githubusercontent.com/render/math?math=f(x)">
+Посмотрим на график функции <img src="https://render.githubusercontent.com/render/math?math=$f(x)$">
 
 
 ```python
@@ -95,7 +95,7 @@ plt.show()
     
 
 
-# Первая производная: <img src="https://render.githubusercontent.com/render/math?math=f'(x)">
+# Первая производная: <img src="https://render.githubusercontent.com/render/math?math=$f'(x)$">
 
 Для нас важно, чтобы на выбранных выше отрезках знак производной не менялся. Убедимся в этом
 
@@ -128,9 +128,9 @@ plt.show()
     
 
 
-# Производная функции <img src="https://render.githubusercontent.com/render/math?math=\phi(x)">
+# Производная функции <img src="https://render.githubusercontent.com/render/math?math=$\phi(x)$">
 
-Для нас важно, чтобы <img src="https://render.githubusercontent.com/render/math?math=q =\max_{{x\in[a, b]}} |\phi'(x)| < 1">
+Для нас важно, чтобы <img src="https://render.githubusercontent.com/render/math?math=$q =\max_{{x\in[a, b]}} |\phi'(x)| < 1$">
 
 
 ```python
@@ -162,7 +162,7 @@ plt.show()
     
 
 
-Как можно заметить нам подхдят только два первых отрезка. Тогда попробуем выразить <img src="https://render.githubusercontent.com/render/math?math=\phi(x)"> иначе
+Как можно заметить нам подхдят только два первых отрезка. Тогда попробуем выразить <img src="https://render.githubusercontent.com/render/math?math=$\phi(x)$"> иначе
 
 
 ```python
@@ -192,9 +192,9 @@ plt.show()
     
 
 
-Теперь условие выполняется для третьего отрезка. Соответсвенно, для первых двух отрезков будем использовать первый вариант выражения <img src="https://render.githubusercontent.com/render/math?math=\phi(x)">, а для третьего второй вариант <img src="https://render.githubusercontent.com/render/math?math=\phi(x)">
+Теперь условие выполняется для третьего отрезка. Соответсвенно, для первых двух отрезков будем использовать первый вариант выражения <img src="https://render.githubusercontent.com/render/math?math=$\phi(x)$">, а для третьего второй вариант <img src="https://render.githubusercontent.com/render/math?math=$\phi(x)$">
 
-# Вторая производная: <img src="https://render.githubusercontent.com/render/math?math=f''(x)">
+# Вторая производная: <img src="https://render.githubusercontent.com/render/math?math=$f''(x)$">
 
 Для нас важно, чтобы на выбранных выше отрезках знак второй производной не менялся. Убедимся в этом
 
