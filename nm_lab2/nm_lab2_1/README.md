@@ -1,6 +1,6 @@
 # Анализ функции 
 
-Посмотрим на график функции $f(x)$
+Посмотрим на график функции <img src="https://render.githubusercontent.com/render/math?math=f(x)">
 
 
 ```python
@@ -20,7 +20,7 @@ plt.show()
 
 
     
-![png](/img/output_1_0.png)
+![png](/nm_lab2/nm_lab2_1/img/output_1_0.png)
     
 
 
@@ -44,7 +44,7 @@ plt.show()
 
 
     
-![png](/img/output_3_0.png)
+![png](/nm_lab2/nm_lab2_1/img/output_3_0.png)
     
 
 
@@ -68,7 +68,7 @@ plt.show()
 
 
     
-![png](/img/output_5_0.png)
+![png](/nm_lab2/nm_lab2_1/img/output_5_0.png)
     
 
 
@@ -91,11 +91,11 @@ plt.show()
 
 
     
-![png](/img/output_7_0.png)
+![png](/nm_lab2/nm_lab2_1/img/output_7_0.png)
     
 
 
-# Первая производная: $f'(x)$
+# Первая производная: <img src="https://render.githubusercontent.com/render/math?math=f'(x)">
 
 Для нас важно, чтобы на выбранных выше отрезках знак производной не менялся. Убедимся в этом
 
@@ -124,13 +124,13 @@ plt.show()
 
 
     
-![png](/img/output_9_0.png)
+![png](/nm_lab2/nm_lab2_1/img/output_9_0.png)
     
 
 
-# Производная функции $\phi(x)$
+# Производная функции <img src="https://render.githubusercontent.com/render/math?math=\phi(x)">
 
-Для нас важно, чтобы q = $\max_{{x\in[a, b]}} |\phi'(x)| < 1$
+Для нас важно, чтобы <img src="https://render.githubusercontent.com/render/math?math=q =\max_{{x\in[a, b]}} |\phi'(x)| < 1">
 
 
 ```python
@@ -158,11 +158,11 @@ plt.show()
 
 
     
-![png](/img/output_11_0.png)
+![png](/nm_lab2/nm_lab2_1/img/output_11_0.png)
     
 
 
-Как можно заметить нам подхдят только два первых отрезка. Тогда попробуем выразить $\phi(x)$ иначе
+Как можно заметить нам подхдят только два первых отрезка. Тогда попробуем выразить <img src="https://render.githubusercontent.com/render/math?math=\phi(x)"> иначе
 
 
 ```python
@@ -188,13 +188,13 @@ plt.show()
 
 
     
-![png](/img/output_13_0.png)
+![png](/nm_lab2/nm_lab2_1/img/output_13_0.png)
     
 
 
-Теперь условие выполняется для третьего отрезка. Соответсвенно, для первых двух отрезков будем использовать первый вариант выражения $\phi(x)$, а для третьего второй вариант $\phi(x)$
+Теперь условие выполняется для третьего отрезка. Соответсвенно, для первых двух отрезков будем использовать первый вариант выражения <img src="https://render.githubusercontent.com/render/math?math=\phi(x)">, а для третьего второй вариант <img src="https://render.githubusercontent.com/render/math?math=\phi(x)">
 
-# Вторая производная: $f''(x)$
+# Вторая производная: <img src="https://render.githubusercontent.com/render/math?math=f''(x)">
 
 Для нас важно, чтобы на выбранных выше отрезках знак второй производной не менялся. Убедимся в этом
 
@@ -220,7 +220,7 @@ plt.show()
 
 
     
-![png](/img/output_16_0.png)
+![png](/nm_lab2/nm_lab2_1/img/output_16_0.png)
     
 
 
@@ -272,6 +272,6 @@ plt.show()
 
 
     
-![png](/img/output_20_0.png)
+![png](/nm_lab2/nm_lab2_1/img/output_20_0.png)
     
 
